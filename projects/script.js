@@ -50,12 +50,12 @@ function showProjects(projects) {
         <img draggable="false" src="/assets/images/projects/${encodeURIComponent(projects.image)}.png" alt="projects" />
       <div class="content">
         <div class="tag">
-        <h3>${project.name}</h3>
+        <h3>${projects.name}</h3>
         </div>
         <div class="desc">
-          <p>${project.desc}</p>
+          <p>${projects.desc}</p>
           <div class="btns">
-            <a href="${project.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+            <a href="${projects.links.code}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
           </div>
         </div>
       </div>
