@@ -3,6 +3,7 @@
   {
     "name": "Youtube Text Summarization",
     "desc": "Built a web app that transcribes YouTube videos using SpeechRecognition and summarizes them with BERT and BART models.",
+    "image": "youtubemern",
     "category": "mern",
     "links": {
       
@@ -14,6 +15,7 @@
   {
     "name": "Weather App",
     "desc": "Developed a responsive weather application using HTML, CSS, JavaScript, and integrated the OpenWeather API.",
+    "image" : "weather",
     "category": "basicweb",
     "links": {
       "code": "https://github.com/Krishna7777-pittu/Weather_App"
@@ -23,6 +25,7 @@
   {
     "name": "Music Website",
     "desc": "A sample music website built using HTML and CSS, featuring a curated selection of songs for a smooth listening experience.",
+    "image" : "music",
     "category": "basicweb",
     "links": {
       "code": "https://github.com/Krishna7777-pittu/Music_Website"
@@ -33,6 +36,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image" : "portfolio1",
     "category": "basicweb",
     "links": {
       "code": "https://github.com/Krishna7777-pittu/TAIRP/tree/main/Portfolio%20Website"
@@ -42,6 +46,7 @@
   {
     "name": "3D_Earth",
     "desc": "Created a 3D Earth visualization website using HTML, CSS, and JavaScript for an interactive globe experience",
+    "image" : "3d",
     "category": "basicweb",
     "links": {
       
@@ -52,6 +57,7 @@
   {
     "name": "Food Ordering Website",
     "desc": "Developed a full-stack food ordering platform with React, Node.js, Express, and MongoDB, featuring Stripe-powered payments and real-time order tracking.",
+    "image" : "foodwesite",
     "category": "mern",
     "links": {
       
