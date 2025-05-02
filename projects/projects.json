@@ -70,6 +70,17 @@
       
       "code": "https://github.com/Krishna7777-pittu/TAIRP/tree/main/To-Do%20List"
     }
+  },
+
+  {
+    "name": "Stock Market Prediction",
+    "desc": "Developed an LSTM-based time series model for predicting stock prices with 90%+ accuracy.",
+    "image": "stocks",
+    "category": "lamp",
+    "links": {
+      
+      "code": "https://github.com/Krishna7777-pittu/Design_Project"
+    }
   }
 
 ]
