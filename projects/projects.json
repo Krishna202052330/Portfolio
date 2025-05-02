@@ -76,7 +76,7 @@
     "name": "Stock Market Prediction",
     "desc": "Developed an LSTM-based time series model for predicting stock prices with 90%+ accuracy.",
     "image": "stocks",
-    "category": "lamp",
+    "category": "mern",
     "links": {
       
       "code": "https://github.com/Krishna7777-pittu/Design_Project"
